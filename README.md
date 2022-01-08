@@ -1,2 +1,2 @@
-# Redux-1-Todo-With-Edit-Modal
+# redux-todo
 Created with CodeSandbox
